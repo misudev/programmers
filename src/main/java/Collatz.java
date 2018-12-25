@@ -2,7 +2,6 @@ public class Collatz {
     public int solution(int num) {
         int answer = 0;
         long long_num = num;
-
         while(answer <= 500){
             if(long_num == 1){
                 return answer;
