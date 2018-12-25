@@ -16,6 +16,5 @@ public class Collatz {
             }
         }
         return -1;
-        
     }
 }
