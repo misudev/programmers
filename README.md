@@ -5,6 +5,6 @@
 
 StringBasic.java    : 문자열 다루기 기본  
 StringCountPY.java  : 문자열 내 p와 y의 개수  
-Collatz.java : 콜라츠 
+Collatz.java : 콜라츠   
 DayOfWeek.java : 2016년  [문제 링크](https://programmers.co.kr/learn/courses/30/lessons/12901)
 
